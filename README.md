@@ -15,8 +15,8 @@ But remember, this must stay simple and basic.
 
 Thank you!
 
-Fields list:
--------------------
+## Fields list
+
     - email (username)
     - password
     - date_joined
