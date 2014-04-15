@@ -31,7 +31,7 @@ Fields list:
 
 ## How to install it
 
-Copy the folder app into your project.
+Copy the app folder into your project.
 
 Add 'custuser' to INSTALLED_APPS in your settings.py.
 Don't forget the ',' at the end!
