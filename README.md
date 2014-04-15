@@ -49,14 +49,17 @@ That's it! You now have custom user in your project.
 ## How to add fields
 
 models.py
+
     - Add your custom fields at line #42
     - Add your required fields at line #59
     - Add your required fields to the create functions at line #11, #18, #24 and #28
 
 forms.py
+
     - Add your required fields and desired fields to line #17 and #45
 
 admin.py
+
     - Add your custom fields to line #21 and #30
 
 *** WORK IN PROGRESS ***
