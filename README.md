@@ -41,7 +41,8 @@ Add AUTH_USER_MODEL = 'custuser.CustUser' to your settings.py
 ## How to use it
 
 Run the following command in your django project folder:
-python manage.py syncdb
+
+    python manage.py syncdb
 
 That's it! You now have custom user in your project.
 
