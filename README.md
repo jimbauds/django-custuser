@@ -26,8 +26,8 @@ Thank you!
 
 ## Requirements
 
-    - Python 3.4
-    - Django 1.6
+* Python 3.4
+* Django 1.6
 
 ## How to install it
 
